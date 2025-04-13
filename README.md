@@ -1,5 +1,7 @@
 # CYD2USB (ESP32-2432S028) sample sketch
 
+![Touch to test picture](pictures/touch_to_test.jpg "Touch to test")
+
 This project is a sample setup for the **ESP32-2432S028** (aka **CYD – Cheap Yellow Display**), featuring a 240x320 resistive touchscreen with an **ST7739** driver. It aims to help developers get started with the device, especially those who have struggled to get both the display and touchscreen working together.
 
 ## CYD2USB trivia
