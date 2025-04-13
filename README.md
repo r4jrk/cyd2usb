@@ -21,3 +21,8 @@ That’s it, in a nutshell.
 This project is developed in ``VS Code`` with ``PlatformIO``, however feel free to manage it however you wish. You may tailor it to work with ``Arduino IDE`` (remember, the ``.ino`` files are basically ``.cpp``). Also, as said before, this project relies on **TFT_eTouch** library that needs to be added manually to ``.pio/libdeps/esp32doit-devkit-v1/`` upon clone or download & unzip.
 
 In the root directory you will also find **User_Setup.h** that is already pre-configured for our **CYD**. Copy and replace it with the one in ``.pio/libdeps/esp32doit-devkit-v1/TFT_eSPI``.
+
+## Useful links
+
+ - https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+ - https://github.com/rzeldent/platformio-espressif32-sunton
